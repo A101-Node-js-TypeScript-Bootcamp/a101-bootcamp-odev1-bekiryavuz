@@ -29,3 +29,6 @@
 * **TypeScript** acts as a superset of **JavaScript**.This states that **Typescript** is **JavaScript** + some other traits.
 * **TypeScript** is specially used on the client-side but **JavaScript** is used on both server-side and client-side.
 * **Javascript** is directly run on the browser, but **Typescript** is not directly run on the browser.
+
+[https://medium.com/@bekiryavuz](https://bekiryavuz.medium.com/javascript-and-typescript-18ea5af7dfd4)
+
